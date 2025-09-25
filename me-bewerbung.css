@@ -1,0 +1,12 @@
+.LG-ScrollPanel {
+  background-color: #f7f7f7;
+}
+.LG-ScrollPanel-Content {
+  max-width: 870px;
+  margin: 0 auto;
+}
+.LG-Section {
+  width: calc(100% - 40px) !important;
+  margin-right: 20px;
+  margin-left: 20px;
+}
